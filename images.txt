@@ -1,4 +1,4 @@
-nextgenhealthcare/connect:latest
+nextgenhealthcare/connect:4.5
 #支持私库
 #nextgenhealthcare/connect
 #支持指定架构
