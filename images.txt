@@ -1,8 +1,7 @@
-nextgenhealthcare/connect:4.5
-ghcr.io/1186258278/openclaw-zh:nightly
 cym1102/nginxwebui:latest
 memcached:1.6.18
-seafileltd/seafile-mc:11.0-latest
+seafileltd/seafile-mc:12.0-latest
+mariadb:10.11
 #支持私库
 #nextgenhealthcare/connect
 #支持指定架构
