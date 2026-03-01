@@ -6,6 +6,7 @@ node:20-alpine
 redis:7-alpine
 mysql:8.0
 1186258278/openclaw-zh:latest
+1467078763/metapi:latest
 #支持私库
 #nextgenhealthcare/connect
 #支持指定架构
